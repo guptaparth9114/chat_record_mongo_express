@@ -19,8 +19,4 @@ This is a simple chat application that allows users to create, view, edit, and d
 - **CSS**: Cascading Style Sheets for styling the user interface.
 - **Method-Override**: Middleware for Express.js used to override the HTTP method of requests.
 
-## Setup Instructions
 
-1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/yourusername/chat-application.git
