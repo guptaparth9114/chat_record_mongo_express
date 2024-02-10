@@ -92,7 +92,7 @@ app.delete("/chats/:id", async (req, res) => {
 });
 
 app.get("/", (req, res) => {
-  res.send("Root is working");
+  res.send("Your website is live!!");
 });
 
 app.listen(port, () => {
