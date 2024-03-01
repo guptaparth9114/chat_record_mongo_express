@@ -32,7 +32,6 @@ async function main() {
 
 app.get("/chats", async (req, res) => {
   let chats = await Chat.find();
-  console.log(chats);
   res.render("chat.ejs", { chats: chats });
 });
 
