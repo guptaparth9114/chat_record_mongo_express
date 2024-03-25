@@ -58,3 +58,8 @@ button:hover {
 .delete-button:hover {
   background-color: #c30000;
 }
+
+.show {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
